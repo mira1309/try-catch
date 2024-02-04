@@ -3,7 +3,7 @@ public class Main {
 
     public static void main(String[] args) {
         try {
-            // ...
+            //  ...
         } catch (NullPointerException | IllegalArgumentException e) {
             System.out.println(e);
         }
